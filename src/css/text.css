@@ -1,0 +1,6 @@
+body{
+    @apply text-gray-900 text-sm sm:text-base;
+}
+h1{
+    @apply font-bold text-xl md:text-3xl;
+}
